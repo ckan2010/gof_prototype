@@ -1,2 +1,4 @@
 # gof_prototype
-spec : MVC 
+#fork 160817
+netflex project prototype
+spec : MVC, JEE, ORACLE, None MJS
